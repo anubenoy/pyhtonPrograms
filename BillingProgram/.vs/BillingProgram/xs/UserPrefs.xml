@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8190CC98-9C30-48D3-B5C6-DABAFE8ABBEB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BillingProgram/Program.cs">
+    <Files>
+      <File FileName="BillingProgram/Program.cs" Line="96" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BillingProgram" expanded="True">
+            <Node name="BillingProgram" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BillingProgram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
