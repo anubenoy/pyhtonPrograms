@@ -1,0 +1,13 @@
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/BillingProgram/BillingProgram/bin/Debug/netcoreapp3.1/BillingProgram.deps.json
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/BillingProgram/BillingProgram/bin/Debug/netcoreapp3.1/BillingProgram.runtimeconfig.json
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/BillingProgram/BillingProgram/bin/Debug/netcoreapp3.1/BillingProgram.runtimeconfig.dev.json
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/BillingProgram/BillingProgram/bin/Debug/netcoreapp3.1/BillingProgram.dll
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/BillingProgram/BillingProgram/bin/Debug/netcoreapp3.1/BillingProgram.pdb
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/BillingProgram/BillingProgram/obj/Debug/netcoreapp3.1/BillingProgram.csproj.AssemblyReference.cache
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/BillingProgram/BillingProgram/obj/Debug/netcoreapp3.1/BillingProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/BillingProgram/BillingProgram/obj/Debug/netcoreapp3.1/BillingProgram.AssemblyInfoInputs.cache
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/BillingProgram/BillingProgram/obj/Debug/netcoreapp3.1/BillingProgram.AssemblyInfo.cs
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/BillingProgram/BillingProgram/obj/Debug/netcoreapp3.1/BillingProgram.csproj.CoreCompileInputs.cache
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/BillingProgram/BillingProgram/obj/Debug/netcoreapp3.1/BillingProgram.dll
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/BillingProgram/BillingProgram/obj/Debug/netcoreapp3.1/BillingProgram.pdb
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/BillingProgram/BillingProgram/obj/Debug/netcoreapp3.1/BillingProgram.genruntimeconfig.cache
