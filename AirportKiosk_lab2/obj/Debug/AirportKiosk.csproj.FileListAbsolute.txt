@@ -1,0 +1,7 @@
+C:\Program Files\visualStudioFiles\AirportKiosk\bin\Debug\AirportKiosk.exe.config
+C:\Program Files\visualStudioFiles\AirportKiosk\bin\Debug\AirportKiosk.exe
+C:\Program Files\visualStudioFiles\AirportKiosk\bin\Debug\AirportKiosk.pdb
+C:\Program Files\visualStudioFiles\AirportKiosk\obj\Debug\AirportKiosk.csproj.AssemblyReference.cache
+C:\Program Files\visualStudioFiles\AirportKiosk\obj\Debug\AirportKiosk.csproj.CoreCompileInputs.cache
+C:\Program Files\visualStudioFiles\AirportKiosk\obj\Debug\AirportKiosk.exe
+C:\Program Files\visualStudioFiles\AirportKiosk\obj\Debug\AirportKiosk.pdb
