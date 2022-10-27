@@ -1,0 +1,13 @@
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/ItemPurchasingSystem/ItemPurchasingSystem/bin/Debug/netcoreapp3.1/ItemPurchasingSystem.deps.json
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/ItemPurchasingSystem/ItemPurchasingSystem/bin/Debug/netcoreapp3.1/ItemPurchasingSystem.runtimeconfig.json
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/ItemPurchasingSystem/ItemPurchasingSystem/bin/Debug/netcoreapp3.1/ItemPurchasingSystem.runtimeconfig.dev.json
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/ItemPurchasingSystem/ItemPurchasingSystem/bin/Debug/netcoreapp3.1/ItemPurchasingSystem.dll
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/ItemPurchasingSystem/ItemPurchasingSystem/bin/Debug/netcoreapp3.1/ItemPurchasingSystem.pdb
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/ItemPurchasingSystem/ItemPurchasingSystem/obj/Debug/netcoreapp3.1/ItemPurchasingSystem.csproj.AssemblyReference.cache
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/ItemPurchasingSystem/ItemPurchasingSystem/obj/Debug/netcoreapp3.1/ItemPurchasingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/ItemPurchasingSystem/ItemPurchasingSystem/obj/Debug/netcoreapp3.1/ItemPurchasingSystem.AssemblyInfoInputs.cache
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/ItemPurchasingSystem/ItemPurchasingSystem/obj/Debug/netcoreapp3.1/ItemPurchasingSystem.AssemblyInfo.cs
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/ItemPurchasingSystem/ItemPurchasingSystem/obj/Debug/netcoreapp3.1/ItemPurchasingSystem.csproj.CoreCompileInputs.cache
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/ItemPurchasingSystem/ItemPurchasingSystem/obj/Debug/netcoreapp3.1/ItemPurchasingSystem.dll
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/ItemPurchasingSystem/ItemPurchasingSystem/obj/Debug/netcoreapp3.1/ItemPurchasingSystem.pdb
+/Users/alansmathew/Developer/conestoaga-college/vs lab works/ItemPurchasingSystem/ItemPurchasingSystem/obj/Debug/netcoreapp3.1/ItemPurchasingSystem.genruntimeconfig.cache
