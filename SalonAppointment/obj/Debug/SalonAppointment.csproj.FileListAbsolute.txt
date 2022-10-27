@@ -1,0 +1,8 @@
+D:\SalonAppointment\bin\Debug\SalonAppointment.exe.config
+D:\SalonAppointment\bin\Debug\SalonAppointment.exe
+D:\SalonAppointment\bin\Debug\SalonAppointment.pdb
+D:\SalonAppointment\obj\Debug\SalonAppointment.csproj.AssemblyReference.cache
+D:\SalonAppointment\obj\Debug\SalonAppointment.csproj.SuggestedBindingRedirects.cache
+D:\SalonAppointment\obj\Debug\SalonAppointment.csproj.CoreCompileInputs.cache
+D:\SalonAppointment\obj\Debug\SalonAppointment.exe
+D:\SalonAppointment\obj\Debug\SalonAppointment.pdb
