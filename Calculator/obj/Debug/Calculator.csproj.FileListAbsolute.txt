@@ -1,0 +1,16 @@
+D:\Calculator\bin\Debug\Calculator.exe.config
+D:\Calculator\bin\Debug\Calculator.exe
+D:\Calculator\bin\Debug\Calculator.pdb
+D:\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Calculator\obj\Debug\MainWindow.g.cs
+D:\Calculator\obj\Debug\App.g.cs
+D:\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+D:\Calculator\obj\Debug\MainWindow.baml
+D:\Calculator\obj\Debug\Calculator.g.resources
+D:\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Calculator\obj\Debug\Calculator.exe
+D:\Calculator\obj\Debug\Calculator.pdb
