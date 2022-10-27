@@ -1,0 +1,8 @@
+D:\BaggageInfo\bin\Debug\BaggageInfo.exe.config
+D:\BaggageInfo\bin\Debug\BaggageInfo.exe
+D:\BaggageInfo\bin\Debug\BaggageInfo.pdb
+D:\BaggageInfo\obj\Debug\BaggageInfo.csproj.AssemblyReference.cache
+D:\BaggageInfo\obj\Debug\BaggageInfo.csproj.SuggestedBindingRedirects.cache
+D:\BaggageInfo\obj\Debug\BaggageInfo.csproj.CoreCompileInputs.cache
+D:\BaggageInfo\obj\Debug\BaggageInfo.exe
+D:\BaggageInfo\obj\Debug\BaggageInfo.pdb
