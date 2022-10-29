@@ -1,0 +1,8 @@
+C:\SoftwareDev\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe.config
+C:\SoftwareDev\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe
+C:\SoftwareDev\SampleConsoleApp\bin\Debug\SampleConsoleApp.pdb
+C:\SoftwareDev\SampleConsoleApp\obj\Debug\SampleConsoleApp.csproj.AssemblyReference.cache
+C:\SoftwareDev\SampleConsoleApp\obj\Debug\SampleConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\SoftwareDev\SampleConsoleApp\obj\Debug\SampleConsoleApp.csproj.CoreCompileInputs.cache
+C:\SoftwareDev\SampleConsoleApp\obj\Debug\SampleConsoleApp.exe
+C:\SoftwareDev\SampleConsoleApp\obj\Debug\SampleConsoleApp.pdb
