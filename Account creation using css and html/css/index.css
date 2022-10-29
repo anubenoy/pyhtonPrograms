@@ -1,0 +1,62 @@
+form label {
+    display: inline-block;
+    width: 150px;
+  }
+  
+  form div {
+    margin-bottom: 10px;
+  }
+  
+  .error {
+    color: red;
+    margin-left: 5px;
+    display: block;
+  }
+  
+  label.error {
+    display: inline;
+  }
+
+  #mandatory{
+    color: red;
+  }
+
+  .container {
+    padding: 15px;
+    background: #eccece;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.accountcreation{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: darkviolet;
+}
+
+#nameLabel{
+    margin-left:auto ;
+}
+
+#submit{margin-left: 0;
+    border-radius: 10px;
+    background: rgb(28, 108, 73);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+}
+
+#reset{margin-left: 40px;
+    border-radius: 10px;
+    background: rgb(28, 108, 73);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+
+
